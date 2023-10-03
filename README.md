@@ -1,3 +1,3 @@
 # Application_informatique
-Project under construction
-https://thumbs.dreamstime.com/z/construction-worker-21780272.jpg
+Project under construction \n
+![alt text](https://thumbs.dreamstime.com/z/construction-worker-21780272.jpg)
