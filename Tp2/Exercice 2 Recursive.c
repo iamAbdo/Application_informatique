@@ -1,6 +1,6 @@
 //Exercice 2 : Calcul la somme d’un tableau
 #include <stdio.h>
-
+// etudiant : Nafa Abdellah yahia mat: 202031076002
 int sommeTab(int tab[], int taille) {
     //On démarre du fin au début parce que la fin n'est pas une constante, mais le début est toujours 0.
     if(taille == 0){
