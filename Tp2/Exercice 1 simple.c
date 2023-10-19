@@ -14,7 +14,7 @@ int main() {
     scanf("%d",&d);
     printf("donner n\n");
     scanf("%d",&n);
-    printf("Un = ",calcUn(a,d,n));
+    printf("Un = %d",calcUn(a,d,n));
 
     return 0;
 }
