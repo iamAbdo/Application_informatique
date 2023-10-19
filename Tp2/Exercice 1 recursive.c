@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// etudiant : Nafa Abdellah yahia mat: 202031076002
 //function recursive du calcule de Un
 int calcUn(int a,int d,int n){
     if (n==0){
