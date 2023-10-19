@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// etudiant : Nafa Abdellah yahia mat: 202031076002
 //function du calcule de Un
 int calcUn(int a,int d,int n){
     return a + (d*n);
